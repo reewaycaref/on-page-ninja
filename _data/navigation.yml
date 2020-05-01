@@ -1,3 +1,9 @@
 # specify main menu items here
 
+- text: Home
+  url: /
+- text: CORA Tutorial Videos  
+  url: https://seotoollab.com/documentation.php
+- text: Contact
+  url: /contact
 
