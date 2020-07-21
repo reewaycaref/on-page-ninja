@@ -48,8 +48,6 @@ Whether you're a seasoned SEO expert or just starting, CORA can help you identif
 
 **WORKS FOR ANY KEYWORD TERM:**  Give me any keyword and location and CORA can show you the best way to optimize your SEO. Stop relying on shady tools that limit what you can see and start uncovering the SEO metrics you need to start ranking higher, both nationally and locally.
 
-**{RESULT-DRIVEN SCREENSHOT}**
-
 **EXCLUSIVES ONLY FOR BHW MEMBERS:**
 
 **GET STARTED TODAY FOR ONLY $24.99 FOR 10 REPORTS (WAS $49.99).**
